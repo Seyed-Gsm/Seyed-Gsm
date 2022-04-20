@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Gsm)](https://github.com/Seyed-Gsm/Seyed-Gsm)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Gsm&show_icons=true&theme=radical)
