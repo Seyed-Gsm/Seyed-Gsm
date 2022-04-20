@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Gsm)](https://github.com/Seyed-Gsm/Seyed-Gsm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Gsm)](https://github.com/Seyed-Gsm/Seyed-Gsm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Gsm&layout=compact)](https://github.com/Seyed-Gsm/Seyed-Gsm)
