@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Gsm&show_icons=true&theme=radical)
+
+[![language](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
