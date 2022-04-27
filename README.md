@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Gsm&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Gsm&layout=compact)](https://github.com/Seyed-Gsm/Seyed-Gsm)
 
 
