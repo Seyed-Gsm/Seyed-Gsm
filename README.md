@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## Don't forget to join my server : 
 
-![Discord Banner 3](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner3)
+![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner3)
