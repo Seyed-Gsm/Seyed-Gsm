@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 #
 <!--
 **Seyed-Gsm/Seyed-Gsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 #
-### Languages : 
+## Languages : 
 
 [![language](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+## Don't forget to join my server : 
+
+![Discord Banner 3](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner3)
