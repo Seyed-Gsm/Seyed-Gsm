@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner3)
 
-![Golombe](https://discordapp.com/api/Method/962328793433927731/widget.png)
+![Golombe](https://discordapp.com/api/Method/962328793433927731/widget.png?)
