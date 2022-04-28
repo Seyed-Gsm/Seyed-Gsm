@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ## Don't forget to join my server : 
 
 ![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner3)
+
+![Golombe](https://discordapp.com/api/users/962328793433927731/widget.png)
