@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner3)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/740456228878286878)](https://discord.com/users/740456228878286878)
+![golombe](https://discord.c99.nl/widget/theme-1/893799393692647434.png)
