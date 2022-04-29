@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![language](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-## Don't forget to join my server : 
+## Discord : 
 
 ![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner3)
 
